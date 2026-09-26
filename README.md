@@ -3,6 +3,10 @@
 SKILL.md
 https://github.com/petergyang/no-ai-slop/blob/main/skills/no-ai-slop/SKILL.md
 
+Создай план по Тест Кейсу
+![[Промток.png]]
+
+
 ```bash
 npm install -g opencode-ai
 # или
